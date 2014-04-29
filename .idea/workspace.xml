@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d57b5412-2683-4dcd-b265-27a46b87620f" name="Default" comment="" />
+    <ignored path="statstudy.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/boxtest.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397097350381" ignored="false" />
+    <file path="/homework_1.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397098799452" ignored="false" />
+    <file path="/homework_1_box.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397181035926" ignored="false" />
+    <file path="/homework_3_pie.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397100058106" ignored="false" />
+    <file path="/homework_1_leaf.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397117766754" ignored="false" />
+    <file path="/homework_1_hist.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397180049617" ignored="false" />
+    <file path="/homework_3_hist.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397797332919" ignored="false" />
+    <file path="/texttest.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397122350025" ignored="false" />
+    <file path="/survey.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397197082106" ignored="false" />
+    <file path="/first.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397201838477" ignored="false" />
+    <file path="/exercise_1_3.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397201292140" ignored="false" />
+    <file path="/pumpkin.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397203520457" ignored="false" />
+    <file path="/test.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397204788535" ignored="false" />
+    <file path="/thinkstats.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397203472110" ignored="false" />
+    <file path="/start_script.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397203899517" ignored="false" />
+    <file path="/exercise_2_2.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397206142589" ignored="false" />
+    <file path="/FileOper.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397460192003" ignored="false" />
+    <file path="/LineCounter.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397543543025" ignored="false" />
+    <file path="/structmapper.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397543329601" ignored="false" />
+    <file path="/ipmappper.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397543565043" ignored="false" />
+    <file path="/ipreducer.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397706344711" ignored="false" />
+    <file path="/homework_2.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1398330303842" ignored="false" />
+    <file path="/conditional.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397553627794" ignored="false" />
+    <file path="/pailiezuhe.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397612864019" ignored="false" />
+    <file path="/gdgxexam.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397617674205" ignored="false" />
+    <file path="/bufanghuiexam.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397618396517" ignored="false" />
+    <file path="/classchoice.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397627477366" ignored="false" />
+    <file path="/dice.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397630224073" ignored="false" />
+    <file path="/xiaoliang_beibei.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397632334969" ignored="false" />
+    <file path="/homework_4_sanguosha.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397812865827" ignored="false" />
+    <file path="/matplotlibtest.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397638488162" ignored="false" />
+    <file path="/subdirreducer.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397712699928" ignored="false" />
+    <file path="/homework_1_5_pill.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397725329040" ignored="false" />
+    <file path="/homework_1_6.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397726828191" ignored="false" />
+    <file path="/data_xfd.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397781450826" ignored="false" />
+    <file path="/dateutil.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397791748639" ignored="false" />
+    <file path="/xfd_index.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397807583767" ignored="false" />
+    <file path="/loadprice.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397805275853" ignored="false" />
+    <file path="/homework_1_8.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1397810432892" ignored="false" />
+    <file path="/dice_conditional.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1398059977177" ignored="false" />
+    <file path="/text_1_1.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1398075704032" ignored="false" />
+    <file path="/data_guru.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1398394399771" ignored="false" />
+    <file path="/multiplication.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1398153127112" ignored="false" />
+    <file path="/segmapper.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1398222276675" ignored="false" />
+    <file path="/segmentreducer.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1398215791008" ignored="false" />
+    <file path="/segreducer.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1398221482715" ignored="false" />
+    <file path="/testerr.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1398221858266" ignored="false" />
+    <file path="/totalpro_stock.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1398224257810" ignored="false" />
+    <file path="/howtoconbayes.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1398224926263" ignored="false" />
+    <file path="/prior_posterior.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1398231347581" ignored="false" />
+    <file path="/democlient.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1398319541858" ignored="false" />
+    <file path="/class_size.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1398410146575" ignored="false" />
+    <file path="/exponential_function.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1398413313372" ignored="false" />
+    <file path="/exponential_cdf.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1398412954887" ignored="false" />
+    <file path="/subject_3_6_usebook.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1398414416739" ignored="false" />
+    <file path="/erf.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1398674868928" ignored="false" />
+    <file path="/erf_thinkstat.py" changelist="d57b5412-2683-4dcd-b265-27a46b87620f" time="1398678338608" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="statstudy" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="exponential_cdf.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thinkstat/char4/exponential_cdf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="10" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exponential_function.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thinkstat/char4/exponential_function.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="10" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="erf.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/thinkstat/char4/erf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="33" selection-start="328" selection-end="328" vertical-scroll-proportion="0.016429354">
+              <folding>
+                <element signature="e#202#214#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/dataguru/thirdweek/prior_posterior.py" />
+        <option value="$PROJECT_DIR$/dataguru/thirdweek/homework_2.py" />
+        <option value="$PROJECT_DIR$/hbasethrift/democlient.py" />
+        <option value="$PROJECT_DIR$/datadown/data_guru.py" />
+        <option value="$PROJECT_DIR$/thinkstat/char3/class_size.py" />
+        <option value="$PROJECT_DIR$/thinkstat/babyboom.dat" />
+        <option value="$PROJECT_DIR$/thinkstat/char4/exponential_cdf.py" />
+        <option value="$PROJECT_DIR$/thinkstat/char4/exponential_function.py" />
+        <option value="$PROJECT_DIR$/thinkstat/babyboom_data.dat" />
+        <option value="$PROJECT_DIR$/thinkstat/char3/relay_cdf.py" />
+        <option value="$PROJECT_DIR$/thinkstat/char3/relay.py" />
+        <option value="$PROJECT_DIR$/thinkstat/char3/Cdf.py" />
+        <option value="$PROJECT_DIR$/thinkstat/char3/subject_3_6_usebook.py" />
+        <option value="$PROJECT_DIR$/thinkstat/char3/subject_3_6_weightcdf.py" />
+        <option value="$PROJECT_DIR$/thinkstat/char4/erf_thinkstat.py" />
+        <option value="$PROJECT_DIR$/thinkstat/char4/erf.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Python</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="statstudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="statstudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="statstudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/thinkstat" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings>
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="statstudy" />
+      </PyConsoleSettings>
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dataguru/thirdweek" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/priceindex" />
+      <recent name="$PROJECT_DIR$/thinkstat/char2" />
+      <recent name="$PROJECT_DIR$/mapred" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/thinkstat/char2" />
+      <recent name="$PROJECT_DIR$/dataguru" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.exponential_function">
+    <configuration default="false" name="exponential_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thinkstat/char4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="statstudy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thinkstat/char4/exponential_function.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="exponential_cdf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thinkstat/char4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="statstudy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thinkstat/char4/exponential_cdf.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="relay_cdf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thinkstat/char3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="statstudy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thinkstat/char3/relay_cdf.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="subject_3_6_weightcdf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thinkstat/char3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="statstudy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thinkstat/char3/subject_3_6_weightcdf.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="subject_3_6_usebook" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thinkstat/char3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="statstudy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thinkstat/char3/subject_3_6_usebook.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="statstudy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="statstudy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="statstudy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.exponential_function" />
+      <item index="1" class="java.lang.String" itemvalue="Python.exponential_cdf" />
+      <item index="2" class="java.lang.String" itemvalue="Python.relay_cdf" />
+      <item index="3" class="java.lang.String" itemvalue="Python.subject_3_6_weightcdf" />
+      <item index="4" class="java.lang.String" itemvalue="Python.subject_3_6_usebook" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.exponential_function" />
+        <item index="1" class="java.lang.String" itemvalue="Python.exponential_cdf" />
+        <item index="2" class="java.lang.String" itemvalue="Python.subject_3_6_weightcdf" />
+        <item index="3" class="java.lang.String" itemvalue="Python.subject_3_6_usebook" />
+        <item index="4" class="java.lang.String" itemvalue="Python.relay_cdf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d57b5412-2683-4dcd-b265-27a46b87620f" name="Default" comment="" />
+      <created>1397097088294</created>
+      <updated>1397097088294</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2498618" sideWeight="0.8207044" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25207296" sideWeight="0.82215124" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.52508" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17784877" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="18" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/thinkstat/babyboom_data.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="32" selection-start="1451" selection-end="1451" vertical-scroll-proportion="0.7080132" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkstat/babyboom.dat">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="13" selection-start="2220" selection-end="3671" vertical-scroll-proportion="0.30586907" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkstat/char2/subject_2_5_hist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkstat/char3/class_size.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="196" selection-end="269" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkstat/char3/relay_cdf.eps">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-6.4400716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkstat/char3/relay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="4" selection-start="1251" selection-end="1251" vertical-scroll-proportion="0.33273703" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkstat/char3/Cdf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="221" column="4" selection-start="5428" selection-end="5428" vertical-scroll-proportion="0.58877283" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkstat/char3/subject_3_6_weightcdf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="27" selection-start="641" selection-end="641" vertical-scroll-proportion="0.5241935" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkstat/char2/myplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="439" column="4" selection-start="11128" selection-end="11128" vertical-scroll-proportion="8.790322" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkstat/char3/subject_3_6_usebook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="21" selection-start="891" selection-end="891" vertical-scroll-proportion="0.6048387" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkstat/char3/relay_cdf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="39" selection-start="259" selection-end="259" vertical-scroll-proportion="0.18145162" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbasethrift/democlient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="24" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datadown/data_guru.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="24" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkstat/char4/exponential_cdf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="10" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkstat/char4/exponential_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="10" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkstat/char4/erf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="33" selection-start="328" selection-end="328" vertical-scroll-proportion="0.016429354">
+          <folding>
+            <element signature="e#202#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
